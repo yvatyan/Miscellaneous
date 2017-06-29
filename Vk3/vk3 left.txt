@@ -1,0 +1,32 @@
+Common:: wirite function that turns off warnings and infos's; disable logginig
+ParseArguments:: pass tests on continue
+Arguments:: Add --help
+Code :: add multitreading
+
+
+	Commands:
+	
+	-	r <Root user id>
+	-	g <Age to> \ <Age from>, <Age to>
+	-	d <Denied user id> [, <Denied user id> [, <Denied user id>]...]
+	-	t <Target user id> [, <Target user id> [, <Target user id>]...]
+	-	u <university id> [, <university id> [, <university id>]...]
+	-	h <school id> [, <school id> [, <school id>]...]
+	-	i <city id> [, <city id> [, <city id>]...]
+	-	o <country id> [, <country id> [, <country id>]...]
+	-	l <Level limit>
+	-	m <Friend limit>
+	-	F <>
+	-	C <>
+	-	f <path to filter file>
+	-	c <path to *.vk file>
+	
+	Examples:
+	
+	vk3.exe -F
+	vk3.exe -C
+	vk3.exe -m 500 -l 2 -r 153484458 -t 217600993
+	vk3.exe -m 500 -l 2 -r 153484458 -t 217600993 281402361
+	vk3.exe -m 500 -l 2 -r 153484458 -t 281402361 -i 1697
+	
+	

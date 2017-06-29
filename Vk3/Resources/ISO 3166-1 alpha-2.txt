@@ -1,0 +1,245 @@
+ISO 3166-1 alpha-2
+AU Australia
+AT Austria
+AZ Azerbaijan
+AX Aland Islands
+AL Albania
+DZ Algeria
+UM Minor Outlying Islands
+VI U.S. Virgin Islands
+AS American Samoa
+AI Anguilla
+AO Angola
+AD Andorra
+AQ Antarctica
+AG Antigua and Barbuda
+AR Argentina
+AM Armenia
+AW Aruba
+AF Afghanistan
+BS Bahamas
+BD Bangladesh
+BB Barbados
+BH Bahrain
+BZ Belize
+BY Belarus
+BE Belgium
+BJ Benin
+BM Bermuda
+BG Bulgaria
+BO Bolivia
+BA Bosnia and Herzegovina
+BW Botswana
+BR Brazil
+IO British Indian Ocean Territory
+VG British Virgin Islands
+BN Brunei
+BF Burkina Faso
+BI Burundi
+BT Bhutan
+VU Vanuatu
+VA Vatican
+GB United Kingdom
+HU Hungary
+VE Venezuela
+TL East Timor
+VN Vietnam
+GA Gabon
+HT Haiti
+GY Guyana
+GM Gambia
+GH Ghana
+GP Guadeloupe
+GT Guatemala
+GN Guinea
+GW Guinea-Bissau
+DE Germany
+GI Gibraltar
+HN Honduras
+HK Hong Kong
+GD Grenada
+GL Greenland
+GR Greece
+GE Georgia
+GU Guam
+DK Denmark
+CD DR Congo
+DJ Djibouti
+DM Dominica
+DO Dominican Republic
+EU European Union
+EG Egypt
+ZM Zambia
+EH Western Sahara
+ZW Zimbabwe
+IL Israel
+IN India
+ID Indonesia
+JO Jordan
+IQ Iraq
+IR Iran
+IE Ireland
+IS Iceland
+ES Spain
+IT Italy
+YE Yemen
+KP North Korea
+CV Cape Verde
+KZ Kazakhstan
+KY Cayman Islands
+KH Cambodia
+CM Cameroon
+CA Canada
+QA Qatar
+KE Kenya
+CY Cyprus
+KG Kyrgyzstan
+KI Kiribati
+CN China
+CC Cocos Islands
+CO Colombia
+KM Comoros
+CR Costa Rica
+CI Ivory Coast
+CU Cuba
+KW Kuwait
+LA Laos
+LV Latvia
+LS Lesotho
+LR Liberia
+LB Lebanon
+LY Libya
+LT Lithuania
+LI Liechtenstein
+LU Luxembourg
+MU Mauritius
+MR Mauritania
+MG Madagascar
+YT Mayotte
+MO Macau
+MK Republic of Macedonia
+MW Malawi
+MY Malaysia
+ML Mali
+MV Maldives
+MT Malta
+MA Morocco
+MQ Martinique
+MH Marshall Islands
+MX Mexico
+MZ Mozambique
+MD Moldova
+MC Monaco
+MN Mongolia
+MS Montserrat
+MM Myanmar
+NA Namibia
+NR Nauru
+NP Nepal
+NE Niger
+NG Nigeria
+AN Netherlands Antilles
+NL The Netherlands
+NI Nicaragua
+NU Niue
+NC New Caledonia
+NZ New Zealand
+NO Norway
+AE UAE
+OM Oman
+CX Christmas Island
+CK Cook Islands
+HM Heard Island and McDonald Islands
+PK Pakistan
+PW Palau
+PS Palestine
+PA Panama
+PG Papua - New Guinea
+PY Paraguay
+PE Peru
+PN Pitcairn Islands
+PL Poland
+PT Portugal
+PR Puerto Rico
+CG Republic of the Congo
+RE Reunion
+RU Russia
+RW Rwanda
+RO Romania
+US USA
+SV El Salvador
+WS Samoa
+SM San Marino
+ST Sao Tome and Principe
+SA Saudi Arabia
+SZ Swaziland
+SJ Svalbard and Jan Mayen
+MP Northern Mariana Islands
+SC Seychelles
+SN Senegal
+VC St. Vincent and the Grenadines
+KN Saint Kitts and Nevis
+LC Saint Lucia
+PM Saint Pierre and Miquelon
+RS Serbia
+CS Serbia and Montenegro
+SG Singapore
+SY Syria
+SK Slovakia
+SI Slovenia
+SB Solomon Islands
+SO Somalia
+SD Sudan
+SR Suriname
+SL Sierra Leone
+SU USSR
+TJ Tajikistan
+TH Thailand
+TW Republic of China
+TZ Tanzania
+TG Togo
+TK Tokelau
+TO Tonga
+TT Trinidad and Tobago
+TV Tuvalu
+TN Tunisia
+TM Turkmenistan
+TR Turkey
+UG Uganda
+UZ Uzbekistan
+UA Ukraine
+UY Uruguay
+FO Faroe Islands
+FM Micronesia
+FJ Fiji
+PH Philippines
+FI Finland
+FK Falkland Islands
+FR France
+GF French Guiana
+PF French Polynesia
+TF French Southern and Antarctic Lands
+HR Croatia
+CF CAR
+TD Chad
+ME Montenegro
+CZ Czech Republic
+CL Chile
+CH Switzerland
+SE Sweden
+LK Sri Lanka
+EC Ecuador
+GQ Equatorial Guinea
+ER Eritrea
+EE Estonia
+ET Ethiopia
+ZA South Africa
+KR Republic of Korea
+GS South Georgia and the South Sandwich Islands
+JM Jamaica
+JP Japan
+BV Bouvet Island
+NF Norfolk
+SH Saint Helena
+TC Turks and Caicos Islands
+WF Wallis and Futuna

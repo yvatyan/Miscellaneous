@@ -1,0 +1,21 @@
+{
+	"level limit":4,
+	"friends limit":400,
+	"detain undefined users":"yes",
+	"root":153484458,
+	"places":
+	[
+		{
+			"country":"Armenia"
+		}
+	],
+	"targets":
+	[
+		200799364
+	],
+	"denies":
+	[
+		150489573,
+		127598001
+	]
+}
