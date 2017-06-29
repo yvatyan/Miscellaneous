@@ -1,0 +1,47 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+    <head>
+        <title> Field </title>
+        <meta http-equiv="Content-Type" content="text/html; charset=windows-1251">
+        <link rel="stylesheet" type="text/css" href="styles.css">
+        <script type="text/javascript" src="script.js"> </script>
+        <script type="text/javascript" src="cookies.js"> </script>
+        <script type="text/javascript" src="GUI.js"> </script>
+        <script type="text/javascript" src="boost.js"> </script>
+    </head>
+    <body id="body" onload="CreateField(9, 4);">
+        <h1 class="sHeader"> Field </h1>
+        <div id="switcher" class="sSwitcher" onclick="SwitchTextures();"> Common </div>
+        <div id="field" class="sField">
+            <div id="next" class="sNext">
+	<div id="score" class="sScore" style="top: 60px"> SCORE: <br>0</div>
+	<div id="bScore" class="sBscore"> BEST SCORE: <br> 0</div>
+	<div class="sNewGame" onclick="ResetField();"> New Game </div>
+	<div class="sResetBScore" onclick="ResetBestScore();"> Reset best score </div>	
+            </div>
+            <div id="opened" class="sOpened">
+	<div id="coins" class="sCoins">0</div>
+            </div>
+            <div id="fog" class="sFog"> 
+	<div class="sGameOver"> Game Over </div>
+	<div class="sTryAgain" onclick="TryAgain();"> Try Again </div>
+            </div>
+            <div class="sHowToPlay"> 
+	<div class="sCopyright"> &copy; Field, 2015 </div>
+	How To Play:
+	<p class="sHowToPlayText">
+	    Put the same animals together to make solid chain that consists of 3 or more animals. The last place where you put the
+	    animal composing the chain, will become next level animal. The bigger is animal's level, the more score you'll 
+	    get for it. Also you get score for putting animals on the field. The square on the left from the field shows the 
+	    animal you will put now.
+	</p>
+            </div>
+        </div>
+        <div id="warning" class="sWarning"> 
+            <div style="color: red; font-weight: 800; font-size: 15px"> Warning !</div>
+            <p style="color: white; font-weight: 500; font-size: 12px">
+	Cookies are disabled. Please, enable cookies to save your game after page refresh.
+            </p>
+        </div>
+    </body>
+</html>

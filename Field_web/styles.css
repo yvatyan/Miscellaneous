@@ -1,0 +1,327 @@
+body
+{
+  background-color: #7784D9;
+  background-image: url("Textures/background.jpg");
+  background-size: cover;
+}
+
+.sField
+{
+    border: 1px solid black;
+    background-image: url("Textures/field.jpg");
+    background-color: navy;
+    background-size: cover;
+    position: absolute;
+    top:  190px;
+    left: 30%;
+    height: 544px;
+    width: 544px;
+    border-radius: 10px;
+}
+
+.sNext
+{
+    border: 1px solid black;
+    background-color: navy;
+    background-size: cover;
+    position: absolute;
+    height: 100px;
+    width: 100px;
+    left: -120px;
+    border-radius: 20px;
+    cursor: default;
+}
+
+.sSquare
+{
+    border: 1px solid black;
+    background-color: #A0BADE;
+    background-size: cover;
+    background-image: url("Textures/square.png");
+    position: absolute;
+    cursor: default;
+}
+
+.sHiSquare
+{
+    border: 2px double black;
+    background-color: #A0BADE;
+    background-size: cover;
+    background-image: url("Textures/highlight.png");
+    position: absolute;
+    cursor: default;
+}
+
+.sScore
+{
+    border: 2px solid black;
+    background-color: navy;
+    background-image: url("Textures/score.png");
+    background-size: cover;
+    position: absolute;
+    color: silver;
+    text-align: center;
+    font-weight: 800;
+    height: 50px;
+    width: 150px;
+    left: -170px;
+    border-radius: 10px;
+    cursor: default;
+}
+
+.sBscore
+{
+    border: 2px solid black;
+    background-color: navy;
+    background-image: url("Textures/bscore.png");
+    background-size: cover;
+    position: absolute;
+    color: silver;
+    text-align: center;
+    font-weight: 800;
+    height: 50px;
+    width: 150px;
+    left: -170px;
+    border-radius: 10px;
+    cursor: default;
+}
+
+.sHeader
+{
+  color: #454A70;
+  text-align: center;
+  font-family: "Arial";
+  font-style: oblique;
+  text-decoration: underline;
+}
+
+.sCopyright
+{
+    color: black;
+    position: absolute;
+    text-align: right;
+    font-style: italic;
+    font-size: 13px;
+    font-family: "Verdana";
+    bottom: 10px;
+    right: -370px;
+    height: 20px;
+    width: 50%;
+}
+
+.sNewGame
+{
+    border: 1px solid black;
+    background-color: navy;
+    background-size: cover;
+    background-image: url("Textures/newgamebutton.png");
+    position: absolute;
+    color: silver;
+    text-align: center;
+    padding-top: 5px;
+    font-weight: 600;
+    font-size: 15px;
+    height: 28px;
+    width: 100px;
+    left: 0px;
+    top: 110px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.sResetBScore
+{
+    border: 5px solid navy;
+    background-color: orange;
+    background-size: cover;
+    background-image: url("Textures/resetbutton.png");
+    position: absolute;
+    color: navy;
+    text-align: center;
+    font-weight: 400;
+    height: 40px;
+    width: 105px;
+    right: -8px;
+    top: 150px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.sFog
+{
+    border: 1px solid black;
+    background-image: url("Textures/fog.png");
+    background-size: cover;
+    color: navy;
+    font-family: "Arial";
+    font-size: 100px;
+    text-align: center;
+    font-weight: 1000;
+    position: absolute;
+    height: 544px;
+    width: 544px;
+    border-radius: 10px;
+    z-index: 1;
+    visibility: hidden;
+    cursor: default;
+}
+
+.sGameOver
+{
+    top: 180px;
+    left: 10px;
+    position: absolute;
+}
+
+.sTryAgain
+{
+    border: 2px solid black;
+    background-color: navy;
+    background-size: cover;
+    background-image: url("Textures/tryagainbutton.png");
+    color: silver;
+    font-family: "Arial";
+    font-size: 15px;
+    text-align: center;
+    font-weight: 600;
+    z-index: 2;
+    position: absolute;
+    height: 25px;
+    width: 100px;
+    border-radius: 5px;
+    cursor: pointer;
+    top: 55%;
+    left: 40%;
+}
+
+.sWarning
+{
+    border: 1px solid silver;
+    background-color: transparent;
+    position: fixed;
+    height: 65px;
+    width: 300px;
+    top: 40px;
+    right: 36px;
+    padding: 2px 2px 2px 2px;
+}
+
+.sAuthors
+{
+    border: 1px solid black;
+    position: absolute;
+    color: black;
+    font-family: "Verdana";
+    font-weight: 300;
+    font-size: 14px;
+    left: 570px;
+    width: 330px;
+    height: 100px;
+    padding: 10px 0px 10px 10px
+}
+
+.sHowToPlay
+{
+    position: absolute;
+    color: black;
+    font-family: "Tahoma";
+    font-weight: 1000;
+    font-size: 17px;
+    top: 604px;
+    width: 544px;
+    height: 290px;
+}
+
+.sHowToPlayText
+{
+    border: 2px solid navy;
+    position: absolute;
+    overflow: visible;
+    font-weight: 500;
+    font-size: 15px;
+    border-radius: 70px;
+    padding: 30px 30px 30px 30px;
+}
+
+.sOpened
+{
+    border: 1px solid black;
+    background-color: silver;
+    background-size: cover;
+    background-image: url("Textures/openedpanel.png");
+    position: absolute;
+    top:  -80px;
+    width: 544px;
+    border-radius: 10px;   
+}
+
+.sPrice
+{
+    position: absolute;
+    height: 30px;
+    min-width: 100px;
+    background-image: url("Textures/price.png");
+    background-size: cover;
+    background-color: transparent;
+    padding-top: 6px;
+    padding-right: 4px;
+    font-weight: 1000px;
+    text-align: right;
+    right: -105px;
+    top: 25px;
+}
+
+.sCoins
+{
+    border: 1px solid black;
+    background-color: navy;
+    background-image: url("Textures/coins.png");
+    background-size: cover;
+    position: absolute;
+    color: #FFD700;
+    text-align: right;
+    padding-top: 6px;
+    padding-right: 4px;
+    padding-left: 40px;
+    font-weight: 400;
+    font-size: 16px;
+    height: 25px;
+    left: 564px;
+    border-radius: 5px;
+    cursor: default;
+}
+
+.sPanel
+{
+    border: 1px solid black;
+    background-color: green;
+    background-size: cover;
+    background-image: url("Textures/animalpanel.png");
+    position: absolute;
+    width: 46px;
+    left: 135px;
+}
+
+.sPanelItem
+{
+    border: 1px solid black;
+    background-color: silver;
+    background-size: cover;
+    position: absolute;
+    left: 2px;
+}
+
+.sSwitcher
+{
+    border: 1px solid black;
+    background-color: yellow;
+    position: absolute;
+    text-align: center;
+    top: 20px;
+    left: 20px;
+    width: 65px;
+    height: 20px;
+    font-weight: 100;
+    font-size: 13px;
+    cursor: pointer;
+}
